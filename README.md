@@ -31,7 +31,7 @@ Create at least **`5 sheets`** explaining different insights, pay attention to t
 Create at least **`two dashboards`** where you structure the info in the sheets in a way that everything make sense, it's easily readable and self explanatory.
 
 #### Challenge 3
-Create a **`story`** to connect everything together. It should include connecting buttons.
+Create a **`story`** to connect everything together. Bonus: It should include connecting buttons.
 
 ## Deliverables
 
